@@ -2089,6 +2089,10 @@ input, select, textarea {
 			color: #76ddff;
 		}
 
+		.icon.style4 {
+			color: #ed4933;
+		}
+
 /* Image */
 
 	.image {
@@ -2604,7 +2608,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #ed4933;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -3351,7 +3355,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #2e3842;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
